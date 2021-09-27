@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔨 currently working on... [❄ frost](https://github.com/trovelang/trove)
+🔨 currently working on... [trove](https://github.com/trovelang/trove)
